@@ -9,3 +9,8 @@ Download a ZIP of this repository [here](https://github.com/AppleBetas/Terminal/
 This is what is looks like:
 
 ![Screenshot of theme running in Terminal on macOS 10.12 beta 3](/screenshots/1.png?raw=true "Optional Title")
+I know, this image doesn't show much. But I was too lazy to actually make a demo to output all of the colours. Leave me alone
+
+### Don't like the name?
+
+Wow, buzzkill. Once installed, go to Terminal preferences, select Profiles, then the theme and press enter on your keyboard. You can enter a new name.
